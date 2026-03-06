@@ -1,0 +1,26 @@
+{
+  "name": "ADC-2496",
+  "design_type": "M",
+  "technology": "SKY",
+  "unique_id": "2496",
+  "license": "Apache-2.0",
+  "trl": 0,
+  "repository": "",
+  "pdk_version": "",
+  "process": "SG13G2",
+  "dependencies": {
+    "sky130_mm_sc_hd_dlyPoly5ns": {
+      "dependencies": {}
+    },
+    "sky130_mm_sc_hd_dlyMim5ns": {
+      "dependencies": {}
+    }
+  },
+  "tools": {},
+  "release": {
+    "version": "v.1.0.0",
+    "gds": "release/v.1.0.0/gds",
+    "netlist": "release/v.1.0.0/netlist",
+    "doc": "release/v.1.0.0/doc"
+  }
+}
