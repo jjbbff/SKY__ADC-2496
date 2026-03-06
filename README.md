@@ -1,5 +1,5 @@
 # Design of a 1.2MS/s Charge-Redistribution Non-Binary SAR-ADC utilizing the SKY130 Open-Source Technology
-## Coment
+## Comment
 This IP has been prepared for the EuroCDP open-source repository.  
 All files are organized according to the EuroCDP IP structure.
 Original repository: https://github.com/efabless/SKY130_SAR-ADC1/tree/main
