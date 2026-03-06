@@ -1,4 +1,5 @@
 # Design of a 1.2MS/s Charge-Redistribution Non-Binary SAR-ADC utilizing the SKY130 Open-Source Technology
+Original Repository: https://github.com/efabless/SKY130_SAR-ADC1/tree/main
 Author: Manuel Moser, 2023, Johannes Kepler University (JKU) Linz, Austria, Institute for Integrated Circuits (IIC).  
 This SAR-ADC has been designed in the context of a Master's thesis, it is published on the [JKU ePUB repository](https://epub.jku.at/obvulihs/content/titleinfo/8694768).
 
